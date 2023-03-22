@@ -13,9 +13,9 @@ The script uses the following Python modules:
 ## Usage
 To use the script, run the following command:
 
-    ```console
-    python sbom_generator.py
-    ```
+```console
+python sbom_generator.py
+```
 
 The script will prompt you to enter the Scan ID and the report format (json or xml). The SBOM report will be generated with the name SCAN_ID.json or SCAN_ID.xml depending on the format selected.
 
